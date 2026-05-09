@@ -1,0 +1,95 @@
+PBMC Staining Protocol - Fresh 
+
+ 
+
+Materials: 
+
+Staining Buffer: DPBS + 5% FBS 
+
+FcBlock: BD Cat# 564219 
+
+Ab Cocktail: Keep on ice, in dark until use. For multiple BV dyes, use BD Brilliant Staining Buffer. 
+
+96 well plate: Round bottom preferred. Flat bottom also works. 
+
+7-AAD: Biolegend Cat# 420403 
+
+Method: 
+
+The staining is for 96 well plate, you can use larger washing volume for tubes. 
+
+0.5 million unstained cells, just go through the same incubation time and centrifuge, fixation. 
+
+1 million PBMC in 100 ul Staining Buffer. 
+
+Add 1 uL FcBlock, mix, incubate for 10 min on ice.   
+
+Add 50 uL Ab Cocktail, gentle mix, 15 min on ice in dark. 
+
+Add 100 uL Staining Buffer, gentle mix  
+
+300xg, 5 min. Flip to remove supernatant. Resuspend in 200 uL Staining Buffer. 
+
+Add 2 uL 7-AAD 15 min before flow acquisition. 
+
+Note: 
+
+To remove antibody aggregates, 15,000 g for 5 min, take supernatant. 
+
+For cell sorting, use DPBS + 1% BSA for staining buffer. 1 mM EDTA optional. 
+
+ 
+
+Tubes for cytometer:  
+
+Falcon 12x75mm tube, no cap Cat# 352008; Snap cap (sterile) Cat# 352054 
+
+If there are clumps, filter using Falcon 5 ml tube with strainer cap (Cat# 352235). 
+
+ 
+
+ 
+
+PBMC Staining Protocol + Fixation 
+
+ 
+
+Materials: 
+
+Staining Buffer: DPBS + 5% FBS 
+
+Zombie NIR: Keep frozen until use. Made in 100 uL DMSO. Dilute 1:100 again in DMSO.  
+
+FcBlock: BD Cat# 564219 
+
+Ab Cocktail: Keep on ice, in dark until use. For multiple BV dyes, use BD Brilliant Staining Buffer. 
+
+Fix Buffer: Biolegend brown bottle Cat# 420801. Bring to room temperature before use. 
+
+96 well plate: Round bottom preferred. Flat bottom also works. 
+
+ 
+
+Method: 
+
+The staining is for 96 well plate, you can use larger washing volume for tubes. 
+
+0.5 million unstained cells, just go through the same incubation time and centrifuge, fixation. 
+
+1 million PBMC in ~200 ul DPBS.  This is NOT staining buffer, no protein allowed. 
+
+Add 2 uL Zombie NIR live/dead staining, mix immediately. 15 min in dark, room temperature.  
+
+Add 70 uL Staining Buffer (less than overfill the wells), gentle mix.  
+
+300 x g, 5 min, flip to remove supernatant, add 1 uL FcBlock, mix, incubate for 10 min on ice.   
+
+Add 50 uL Ab Cocktail, gentle mix, 15 min on ice in dark. 
+
+Add 200 uL Staining Buffer, gentle mix  
+
+300xg, 5 min. Remove supernatant. Resuspend in 100 ul Fixation Buffer or > 2 x pellet vol, mix.  40-60 min in dark at room temp. 
+
+Add 100 uL Staining Buffer, gentle mix, centrifuge. Resuspend in 200 uL Staining Buffer.  
+
+ 

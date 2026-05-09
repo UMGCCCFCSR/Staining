@@ -1,0 +1,31 @@
+ 
+
+Flow Cytometry Shared Services 
+
+ 
+
+Sample:  
+
+Sample buffer: PBS + 10% FBS, optional 1 mM EDTA.   
+
+If you use trypsin to detach the cells, do it as short as possible.  3-5 min range.  Longer time results in aggregation.  Centrifuge gently, with just enough speed to bring cells down.  
+
+Too many dead cells and DNA released from them can make the sample sticky. 
+
+Sample volume 300-500 ul, cell number: 0.2-2 million.  Samples with high concentration will clog the cytometer. 
+
+Keep samples on ice.   
+
+ 
+
+Tubes:  
+
+Falcon 12x75mm tube, no cap Cat# 352008 
+
+                                             Snap cap (sterile) Cat# 352054 
+
+Accuri cytometer can also use eppendorf tubes. 
+
+If there are clumps, filter using Falcon 5 ml tube with strainer cap (352235). 
+
+ 

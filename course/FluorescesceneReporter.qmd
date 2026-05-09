@@ -1,0 +1,81 @@
+University of Maryland Greenebaum Cancer Center Flow Cyotemtry Shared Service 
+
+ 
+
+STANDARD OPERATING PROCEDURE TO MEASURE FLUORESCENT REPORTER FREQUENCY 
+
+ 
+
+ 
+
+INSTRUMENTS: 
+
+ 
+
+BD FACS CANTOII 
+
+BD LSR II 
+
+ 
+
+MATERIALS AND REAGENTS: 
+
+ 
+
+BD FACS Tubes (BD Biosciences #352058) or 96 well U or V-bottom plate 
+
+Ice bucket with ice 
+
+Vortex mixer 
+
+Filter 40m filter or BD Filter cap FACS tubes (BD Biosciences #352235) 
+
+Culture media or FACS buffer (PBS with 1-2% BSA) 
+
+ 
+
+CELL PREPARATION: 
+
+ 
+
+Remove cells from tissue culture dish.   
+
+Non-adherent cells – Decant and spin to concentrate. 
+
+Adherent cell - Use trypsin or other enzymatic on  non-enzymatic non-mechanical procedure. Do not scrape cells! 
+
+Wash/concentrate cells by spinning in centrifuge. 
+
+Make sure to obtain single cell suspension in culture media or FACS buffer. 
+
+Count cells using a haemocytomer or other cell counter. 
+
+Adjust cell density to 2 million cells/ ml. Minimum volume is 250l! 
+
+Filter cells on 40m filter or BD Filter cap FACS tubes. 
+
+Keep cells on ice  or at 4oC until analysis. 
+
+ 
+
+CONTROLS: 
+
+ 
+
+Untransfected negative control.   
+
+Single fluorescent protein (FP)-transfected positive control. If more than one FP is used in experiment, a single-transfected positive control must be provided for each different fluorescent reporter! 
+
+ 
+
+FLOW CYTOMMETRY ANALYSIS: 
+
+ 
+
+Follow SOP for sample acquisition on BD FACS Canto II or BD LSR II analytical instruments.   
+
+Data analysis – with FACS Diva (BD Biosciences) or Flow Jo (TreeStar, Inc.). 
+
+ 
+
+ 
